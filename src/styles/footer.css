@@ -1,0 +1,16 @@
+.footer-divider {
+  margin: 1rem auto;
+  text-align: center;
+  height: 1px;
+  width: 75%;
+  background: linear-gradient(
+    90deg,
+    hsl(245, 20%, 20%),
+    hsl(245, 45%, 35%),
+    hsl(245, 20%, 20%)
+  );
+}
+
+.footer-color {
+  color: #bcbccb;
+}
