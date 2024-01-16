@@ -14,3 +14,16 @@
 .footer-color {
   color: #bcbccb;
 }
+
+.my-divider {
+  margin: 0.5rem auto;
+  text-align: center;
+  height: 1px;
+  width: 75%;
+  background: linear-gradient(
+    90deg,
+    hsl(217, 15%, 90%),
+    hsl(213, 30%, 57%),
+    hsl(217, 15%, 90%)
+  );
+}
