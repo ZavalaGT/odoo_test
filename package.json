@@ -1,0 +1,17 @@
+{
+  "name": "odoo_test",
+  "version": "1.0.0",
+  "description": "mockup test",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [
+    "html",
+    "test",
+    "odoo"
+  ],
+  "author": "Zavala Torres Gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.2"
+  }
+}
